@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.appsdeveloperblog.estore</groupId>
-	<artifactId>PaymentService</artifactId>
+	<artifactId>PaymentsService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>PaymentService</name>
-	<description>PaymentService</description>
+	<name>PaymentsService</name>
+	<description>PaymentsService</description>
 
 	<properties>
 		<java.version>21</java.version>
