@@ -1,4 +1,4 @@
-package com.appsdeveloperblog.estore.PaymentService;
+package com.appsdeveloperblog.estore.PaymentsService;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
